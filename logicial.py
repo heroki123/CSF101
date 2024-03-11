@@ -26,8 +26,8 @@ y = 12
 print(not(y > 10 and y % 5 == 0))
 
 #classwork
-t=10
-print(t>2 and t<3)
+t = 10
+print(t > 2 and t < 3)
 
 r=0.57
 print(r == 2*2 or r >0.34)
