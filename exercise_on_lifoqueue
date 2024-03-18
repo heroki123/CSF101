@@ -1,6 +1,6 @@
-from queue import LifoQueue
+from queue import Queue
 import sys
-patiant_list=LifoQueue()
+patiant_list= Queue()
 current_list= None
 while True:
     print("WELCOME TO CST INFIRMARY AAPPOINTMENT AND REGISTRATION SYSTEM!!")
