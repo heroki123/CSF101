@@ -16,7 +16,6 @@ print(x < 3 or x > 10)
 y = 12
 print(y < 10 or y % 2 == 0)
 
-#for NOT operator
 #example 1
 x = 5
 print(not(x > 3 and x < 10))
