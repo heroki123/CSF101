@@ -1,1 +1,0 @@
-print("hello mother and father")
